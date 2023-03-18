@@ -1,0 +1,270 @@
+.titulop{
+    font-size: 5rem;
+    margin: 1rem 0 0 5rem;
+    color: blueviolet;
+}
+.sub1{
+    width: 35rem;
+    margin: 2rem 0 0 2rem;
+    font-size: 2.5rem;
+    background-color: bisque;
+}
+.sec1{
+    margin: 3rem 0 0 5rem;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+.chrome{
+    width: 3rem;
+    height: 3rem;
+}
+.sasfari{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.Mozilla{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.Edge{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.opera{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+
+/*seccion 2*/
+.sec2{
+    margin: 3rem 0 0 5rem;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+.KODI{
+    width: 3rem;
+    height: 3rem;
+}
+.KM{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.VLC{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.pot{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.gom{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+
+/*seccion 3*/
+.sec3{
+    margin: 3rem 0 0 5rem;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+.WinZip{
+    
+    width: 3rem;
+    height: 3rem;
+}
+
+.izarc{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.ZArchiver{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.WinAce{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.HamsterZip {
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+
+/*seccion 4*/
+.sub4{
+    width: 45rem;
+    margin: 2rem 0 0 2rem;
+    font-size: 2.5rem;
+    background-color: bisque;
+}
+.sec4{
+    margin: 3rem 0 0 5rem;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+.lenovo{
+    
+    width: 5rem;
+    height: 3rem;
+}
+
+.hp{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.huawei{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.dell{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.acer {
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+
+/*seccion 5*/
+.sub5{
+    width: 45rem;
+    margin: 2rem 0 0 2rem;
+    font-size: 2.5rem;
+    background-color: bisque;
+}
+.sec5{
+    margin: 3rem 0 0 5rem;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+.cris{
+    width: 3rem;
+    height: 3rem;
+}
+
+.HDDScan{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.EASIS{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.HD{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.DiskCheckup {
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+
+/*seccion 6*/
+.sub6{
+    width: 50rem;
+    margin: 2rem 0 0 2rem;
+    font-size: 2.5rem;
+    background-color: bisque;
+}
+.sec6{
+    margin: 3rem 0 0 5rem;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+.kisnta{
+    width: 3rem;
+    height: 3rem;
+}
+
+.LoadNinja{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.loadero{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.SmartMeter{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.StormForge {
+    margin-top: 2rem;
+    width: 7rem;
+    height: 2rem;
+}
+
+
+/*seccion 7*/
+.sub7{
+    width: 50rem;
+    margin: 2rem 0 0 2rem;
+    font-size: 2.5rem;
+    background-color: bisque;
+}
+.sec7{
+    margin: 3rem 0 0 5rem;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+.Free{
+    width: 3rem;
+    height: 3rem;
+}
+
+.AVG{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.Bitdefender{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.ESET{
+    margin-top: 2rem;
+    width: 3rem;
+    height: 3rem;
+}
+.Spybot {
+    margin-top: 2rem;
+    width: 8rem;
+    height: 3rem;
+}
